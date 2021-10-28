@@ -7,8 +7,8 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Welcome sir I am at your service
 
-For More Details Click Help Button Below..
-@ASK ANY MOVIES
+
+
 </i>"""    
     
     HELP_TEXT = """
